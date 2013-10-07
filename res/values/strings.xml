@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SHYRKHA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1">Demarrer</string>
+    <string name="button2">Stop</string>
+    <string name="button3">Init</string>
+	<string name="button4">Requete</string>
+</resources>
