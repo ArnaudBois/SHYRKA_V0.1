@@ -12,7 +12,7 @@ I've some sensor : electical power, temperature and pressure.
 I've also an ymaha AV that can be controlled over HTTP
 I'am trying to get information from orange to control TV decoder and about livebox telephony.
 
-The project implements vocal recognition.
+The project implements vocal recognition,ModbusTCP (jamod)
 
 i'm french, forgive me my poor english :)
 
